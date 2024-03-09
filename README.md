@@ -77,9 +77,12 @@ gi<br>
 2. git status to find out the status of the files in the folder 
 -----There are four kinds of status 
   >>>Untracked = new files that git doesn't yet track
+  <br>
   >>>modified  = the files in which changes are made but they are not yet committed or added
+  <br>
   >>>staged    = when the file is ready to be committed but it is just added so it ghoes to the git staging area 
   to be committed
+  <br>
   >>>unmodified= when there is no change made in the file 
 <br>
   3.Add git add <-"file name "->
