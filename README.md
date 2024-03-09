@@ -28,23 +28,35 @@ then comes the next part
 download GIT
 https://git-scm.com/downloads
 1. go to this website and c hoose accordingly whichever device you have(macos,linux,windows)
+<br>
+<br>
 2.after selecting click on "click here to download"
+<br>
+<br> 
 3. after installing the file 
 open it and click next 
-
 then without changing the fiel location click on next again 
+<br>
+<br>
+
 4. then a window pops up with the name select components 
 now some of the components might already be selected and you have to select some yourself 
- additional icons 
-   on desktop 
-   select the above components 
+ additional icons on desktop 
+select the above components 
+<br>
+<br>
+
 5. now another window pops up with name select start menu folder
 just press next 
 now again next by leaving files at default value 
 
 then comes a window "adjusting the name of the initial branch in new repositries "
  choose 
+
  "override the default branch name for new repositries "
+<br>
+<br>
+
 6. now the next window will be "adjusting you PATH environment"
 here choose "use git and optional unix tools from command prompt"
 and click next 
@@ -88,9 +100,11 @@ by this way you can access any kind of file from remote location?(github)
  to your local system or device
 
  
-
+<br>
+<br>
+<br>
 1. git clone <- github repositry link (in http form)>
-
+<br>
 2. git status to find out the status of the files in the folder 
 -----There are four kinds of status 
   >>>Untracked = new files that git doesn't yet track
@@ -98,12 +112,14 @@ by this way you can access any kind of file from remote location?(github)
   >>>staged    = when the file is ready to be committed but it is just added so it ghoes to the git staging area 
   to be committed
   >>>unmodified= when there is no change made in the file 
-
+<br>
   3.Add git add <-"file name "->
   >>> if there are many files to be added the     "git add ."
+ 
+ <br>
   4.Commit -> it is the record of change
      " git commit -m "some-message" 
-
+<br>
   5.Push -> It helps in pushing the local repositry into the remote repositry 
   "git push main origin"
   
@@ -113,3 +129,4 @@ by this way you can access any kind of file from remote location?(github)
   own system or computer/device 
   and when we use push command we will be tranfering the contents of local repositry and changfes made to 
   the file to the remote repositry from where we started our project.
+<br>
