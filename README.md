@@ -33,27 +33,16 @@ https://git-scm.com/downloads
 2.after selecting click on "click here to download"
 <br>
 <br> 
-3. after installing the file 
-open it and click next 
-then without changing the fiel location click on next again 
+3. after installing the file open it and click next then without changing the fiel location click on next again 
 <br>
 <br>
-
-4. then a window pops up with the name select components 
-now some of the components might already be selected and you have to select some yourself 
- additional icons on desktop 
-select the above components 
+4. then a window pops up with the name select components now some of the components might already be selected and you have to select some yourself additional icons on desktop select the above components 
 <br>
 <br>
-
 5. now another window pops up with name select start menu folder
 just press next 
-now again next by leaving files at default value 
-
-then comes a window "adjusting the name of the initial branch in new repositries "
- choose 
-
- "override the default branch name for new repositries "
+now again next by leaving files at default value then comes a window "adjusting the name of the initial branch in new repositries " choose 
+"override the default branch name for new repositries "
 <br>
 <br>
 
@@ -61,17 +50,10 @@ then comes a window "adjusting the name of the initial branch in new repositries
 here choose "use git and optional unix tools from command prompt"
 and click next 
  now you just have to click next until it gets intalled itself 
- and you will see an icon with the name "Git Bash"
-  click on it and then 
-  use command "git config --global user.name "yourname"
-  now in your name you are going to put the user id of your github account 
-
-  then use command 
-   "git config --global user.email "youremail@gmail.com"
-   now in this you will add the email which you used to make your github account 
-
-   now run "git config --list"
-   now at the last you will see the name and email changed 
+ and you will see an icon with the name "Git Bash" click on it and then use command "git config --global user.name "yourname" now in your name you are going to put the user id of your github account then use command 
+"git config --global user.email "youremail@gmail.com" now in this you will add the email which you used to make your github account 
+now run "git config --list"
+now at the last you will see the name and email changed 
     why we have used global???
     => there are two ways global and local 
      in global it makes chnages in entire system 
@@ -82,25 +64,12 @@ and click next
  so that we can code and learn about GIT better 
 
  after installling vscode
-  make a folder of your choice and open it 
-  and then go to github 
-  and open your repositry and access your repositry you made in the starting there will be and option "Code"
-   click on it and you can find the link of the repositry in https format 
-   copy it 
-
-   then open the terminal in vscode using ctrl+shift+'
-
- write the code in the ternminal 
-
- git "clone then  the  link"
-
-you will see that the github repositry files are now available at the folder you just made 
-
-by this way you can access any kind of file from remote location?(github)
- to your local system or device
-
- 
-<br>
+  make a folder of your choice and open it and then go to github and open your repositry and access your repositry you made in the starting there will be and option "Code" click on it and you can find the link of the repositry in https format copy it 
+then open the terminal in vscode using ctrl+shift+'
+write the code in the ternminal 
+git "clone then  the  link"
+you will see that the github repositry files are now available at the folder you just made by this way you can access any kind of file from remote location?(github) to your local system or device
+gi<br>
 <br>
 <br>
 1. git clone <- github repositry link (in http form)>
