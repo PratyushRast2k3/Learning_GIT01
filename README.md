@@ -95,6 +95,8 @@ gi<br>
   5.Push -> It helps in pushing the local repositry into the remote repositry 
   "git push main origin"
   
+<br>
+<br>
 
   Now what is remote and Local ????
 -> remote is when the file is stored in platforms like github and local means means stored locally on our 
